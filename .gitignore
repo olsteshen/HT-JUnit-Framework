@@ -1,0 +1,11 @@
+/build.gradle
+/build-spring-boot.gradle
+/gradlew
+/gradlew.bat
+/pom-spring-boot.xml
+/settings.gradle
+/src/main
+/target
+/gradle
+
+/src/test/resources/PLACEHOLDER
